@@ -34,7 +34,7 @@ export default function Service() {
             <li className={styles.ordered_list}>
               {" "}
               <Link className={styles.sub_list} href="/service">
-                Service
+                Servicesss
               </Link>
             </li>
             <li className={styles.ordered_list}>
